@@ -3,6 +3,7 @@ Tugas 2 Kecerdasan Buatan
 "Nama: Irwansyah Indra Prayoga"
 "NRP: 6022251086"
 
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -82,3 +83,4 @@ plt.legend()
 plt.xlabel("Temperature t")
 plt.ylabel("μ_D(t)")
 plt.show()
+"""
